@@ -1,5 +1,5 @@
 {
-    "name": "warrant/silex-asset-extension",
+    "name": "warrantgroup/silex-asset-extension",
     "type": "library",
     "description": "Twig asset extension for Silex",
     "homepage": "https://github.com/warrantgroup/silexAssetExtension",
